@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_eFoGcGOYEfCV_ZKL18FU8w" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_yhKWgGOYEfCV_ZKL18FU8w" comment="" name="role" prompt="role?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;&quot;"/>
+  <contextParameter xmi:id="_yhKWgWOYEfCV_ZKL18FU8w" comment="" name="can_read_orders" prompt="can_read_orders?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_yhKWgmOYEfCV_ZKL18FU8w" comment="" name="can_write_snowflake" prompt="can_write_snowflake?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_yhKWg2OYEfCV_ZKL18FU8w" comment="" name="can_log_errors" prompt="can_log_errors?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_yhKWhGOYEfCV_ZKL18FU8w" comment="" name="can_read_logs" prompt="can_read_logs?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+</talendfile:ContextType>
